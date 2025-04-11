@@ -1,0 +1,25 @@
+PART 2: AI Tools & LLMs (Bonus)
+
+Tools Used:
+- ChatGPT
+- GitHub Copilot
+
+1. Prompts or Ways I Used AI:
+- "Generate a backend Express.js route for updating a job application with MongoDB."
+- "Suggest filtering logic for a job tracker app based on status and job type using React and Redux."
+- "Optimize my MongoDB query for listing job applications sorted by date."
+- "Create a confirmation modal using Tailwind CSS and React for delete functionality."
+
+2. How It Helped (or Didn’t):
+- Code Generation: Helped speed up boilerplate code creation for routes, models, and filtering logic.
+- Bug Fixing: ChatGPT helped identify a logic bug in my filtering function.
+- Optimization Tips: Provided guidance on optimizing my MongoDB queries and Redux state updates.
+- UI Suggestions: Assisted with Tailwind class combinations for consistent styling and responsive layout.
+
+Overall, AI tools significantly improved development speed and gave me clarity during roadblocks, especially with backend integration and frontend conditional rendering.
+
+3. Manual Changes I Made After Using the Tool:
+- Adjusted route handlers to match my schema structure and validation needs.
+- Modified generated Tailwind classes to better align with my design system.
+- Updated state management logic from vanilla React to Redux Toolkit structure.
+- Added custom error handling and success toast notifications based on real-time testing.
