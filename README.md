@@ -36,7 +36,7 @@ Job Tracker is a full-stack web application designed to help users manage their 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/job-tracker.git
+   git clone https://github.com/Abhithakur7080/job-tracker.git
    cd job-tracker
 
 2. Install dependencies for both client and server:
